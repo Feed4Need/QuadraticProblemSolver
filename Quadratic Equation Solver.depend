@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582865086 source:c:\users\isaac\onedrive\desktop\university\y1-s1\engg1003-introduction to procedural programming\quadratic equation solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1582900265 source:c:\users\isaac\desktop\quadraticproblemsolver-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
